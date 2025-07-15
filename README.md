@@ -2,7 +2,17 @@
 
 ## Description
 
-This project integrates the Judgment Lab platform with OpenAI's API to help users gather information on any topic through an intelligent agent. The agent performs a series of steps to retrieve relevant information, allowing you to track the process and optionally save it for future use.
+- Developed a custom AI research assistant capable of gathering, summarizing, and evaluating
+information across web and Wikipedia sources
+- Integrated OpenAI’s GPT-4 via the LangChain framework to process multi-step research
+workflows with dynamic tool usage
+- Instrumented full pipeline observability and traceability using the JudgmentLab Tracer and
+FaithfulnessScorer to assess agent accuracy and source quality
+- Implemented robust fallback evaluation using OpenAI's GPT-based evaluator to ensure scoring
+continuity when project quota limits are exceeded
+- Enabled logging of intermediate steps and final outputs into timestamped text files for offline
+evaluation and making the process auditable
+
 Table of Contents
 
 ```
