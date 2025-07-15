@@ -1,0 +1,10 @@
+langchain
+wikipedia
+langchain-community
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic # for python library data validation
+duckduckgo-search # to use duckduckgo search as tool
+ddgs # new name of duckduckgo_search
+judgeval # for tracing and evaluation of agents
