@@ -5,12 +5,14 @@
 This project integrates the Judgment Lab platform with OpenAI's API to help users gather information on any topic through an intelligent agent. The agent performs a series of steps to retrieve relevant information, allowing you to track the process and optionally save it for future use.
 Table of Contents
 
+```
 Installation
 Setup
 Usage
 Save Output to File
 Requirements
 License
+```
 
 ## Installation
 
