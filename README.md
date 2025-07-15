@@ -11,7 +11,8 @@ Usage
 Save Output to File
 Requirements
 License
-Installation
+
+## Installation
 
 To get started, you'll need to install the required dependencies. You can do this by running:
 
