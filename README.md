@@ -73,6 +73,8 @@ This will cause the agent to save all the steps it took to gather information in
 
 ## Requirements
 
+```
 Python 3.10 (or, higher)
+```
 Dependencies listed in requirements.txt
-Ensure you have installed all the necessary libraries using pip install -r requirements.txt
+
