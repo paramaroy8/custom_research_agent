@@ -1,8 +1,7 @@
 langchain
 wikipedia
 langchain-community
-langchain-openai
-langchain-anthropic
+langchain-openai # or langchain-anthropic # to use their API
 python-dotenv
 pydantic # for python library data validation
 duckduckgo-search # or ddgs # to use duckduckgo search as tool 
