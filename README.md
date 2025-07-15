@@ -64,7 +64,7 @@ If you want to save the agent's steps to a text file in the current directory, s
 
 Example:
 ```
-What is Quantum Mechanics? Save to file
+What is Quantum Mechanics? save to file
 ```
 This will cause the agent to save all the steps it took to gather information into the file agent_output.txt.
 
