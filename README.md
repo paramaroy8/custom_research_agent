@@ -28,9 +28,11 @@ First, you'll need to create an account on the [Judgment Lab Platform](https://a
 ## Step 2: Set Up Environment Variables
 Create a .env file in your project’s root directory and add the following entries:
 
+```
 OPENAI_API_KEY=your_openai_api_key
 JUDGMENT_API_KEY=your_judgment_api_key
 JUDGMENT_ORG_ID=your_org_id
+```
 Replace "your_openai_api_key", "your_judgment_api_key", and "your_org_id" with the corresponding values from the OpenAI API and Judgment Lab Platform.
 
 ## Step 3: Run the Project
