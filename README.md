@@ -48,10 +48,11 @@ python main.py
 
 Once the script is running, you can interact with the agent by providing it with the following inputs:
 
-
+```
   • Your Question/Topic – What would you like to know more about? This could be any topic or query.
   • Maximum Number of Steps – Define how many steps you want the agent to take to retrieve information.
   • Evaluation Option – Choose whether you want to evaluate the agent's steps. Type y for Yes and n for No.
+```
   
 Example:
 ```
